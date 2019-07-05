@@ -4,6 +4,7 @@ Machine Learning Project on "Quick,Draw! Doodle Recognition" Challenge from Kagg
 Refer to Kaggle site for dataset.(https://www.kaggle.com/c/quickdraw-doodle-recognition/data)
 
 Libraries used:
+
     - tensorflow,
     - keras,
     - numpy,
@@ -14,7 +15,9 @@ Libraries used:
     - dask etc.,
 
 CNN layers used:
+
 Sequential model with,
+
     - Conv2D,
     - MaxPooling2D,
     - Dropout,
